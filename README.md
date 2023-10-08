@@ -1,16 +1,36 @@
-### Hi there 👋
+ <h1 align = "center" >Meu nome é Eduardo! <img align="center" src="https://github.com/novvais/novvais/assets/110359905/5c43108c-7b08-42a1-8531-c37c8d1c3d90" height="10%" width="10%"/></h1> 
 
-<!--
-**novvais/novvais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+    <h3> 
+    <br>
+    <br>
+    </h3>
+</div>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div align="center">
+    <h3 align="" >Skills</h3> 
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" height="30" width="30"/>
+        <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/>
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40"/>
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="30" width="40"/>
+        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40"/>
+</div>
+
+##
+
+<div align="center">
+  <a hef="https://github.com/novvais">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=novvais&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvais&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
+</div>
+
+<div>
+  <a hef="https://github.com/novvais/calculator">
+  <img height="180em" src="https://calculator-aw6x.vercel.app">
+</div>
+
+****
