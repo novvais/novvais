@@ -1,13 +1,15 @@
  <h1 align = "center" >OLÁ, MEU NOME É EDUARDO <img align="center" src="https://github.com/novvais/novvais/assets/110359905/5c43108c-7b08-42a1-8531-c37c8d1c3d90" height="10%" width="10%"/></h1> 
 
 <div align="center">
-    <h3> 
+    <h4> Me interessei por programação há 2 anos e hoje estudo 
     <br>
+    Desenvolvimento de Software com foco em Back-End na Cubos Academy.
     <br>
-    </h3>
+    Sou ambicioso e costumo correr atrás coisas que aprecio, proativo e 
+    <br>
+    organizado no âmbito profissional e pessoal.
+    </h4>
 </div>
-
-<br>
 
 ##
 
