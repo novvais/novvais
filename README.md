@@ -30,7 +30,7 @@
 
 <div>
   <a hef="https://github.com/novvais/calculator">
-  <img height="180em" src="https://calculator-aw6x.vercel.app">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=calculator&theme=midnight-purple">
 </div>
 
 ****
