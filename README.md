@@ -28,9 +28,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvais&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
-<div>
-  <a hef="https://github.com/novvais/calculator">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=calculator&theme=midnight-purple">
+##
+
+<div align="center">
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=calculator&theme=midnight-purple)
 </div>
 
