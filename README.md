@@ -37,5 +37,4 @@
  
   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=calculator&theme=midnight-purple)
 </div>
-
-****
+***
