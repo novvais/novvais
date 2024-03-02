@@ -35,6 +35,9 @@
 <div align="center">
   <h3 align="center">PROJECT'S</h3>
  
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=calculator&theme=midnight-purple)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=api-banco-digital&theme=midnight-purple)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=dindin&theme=midnight-purple)
+  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=pdv-system&theme=midnight-purple)
+  
 </div>
 ***
