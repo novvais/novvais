@@ -32,12 +32,13 @@
 
 ##
 
+ <h3 align="center">PROJECT'S</h3>
 <div align="center">
-  <h3 align="center">PROJECT'S</h3>
- 
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=api-banco-digital&theme=midnight-purple)
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=dindin&theme=midnight-purple)
-  ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=pdv-system&theme=midnight-purple)
-  
+  <a href="https://github.com/novvais/API-Banco-Digital"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=api-banco-digital&theme=midnight-purple"/>
+  <a href="https://github.com/novvais/dindin"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=dindin&theme=midnight-purple"/>
+  <a href="https://github.com/novvais/PDV-System"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=pdv-system&theme=midnight-purple"/>  
 </div>
 ***
