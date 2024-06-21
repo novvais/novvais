@@ -1,26 +1,41 @@
- <h1 align = "center" >OLÁ, MEU NOME É EDUARDO <img align="center" src="https://github.com/novvais/novvais/assets/110359905/5c43108c-7b08-42a1-8531-c37c8d1c3d90" height="10%" width="10%"/></h1> 
-
-<div align="center">
-    <h4> Me interessei por programação há 2 anos e hoje estudo 
-    <br>
-    Desenvolvimento de Software com foco em Back-End na Cubos Academy.
-    <br>
-    Sou ambicioso e costumo correr atrás coisas que aprecio, proativo e 
-    <br>
-    organizado no âmbito profissional e pessoal.
-    </h4>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE!&textBg=false&section=header&reversal=false&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&fontSize=30"/>
 
 ##
 
-<div align="center">
-    <h3 align="" >SKILLS</h3> 
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png?20120221235433" height="30" width="30"/>
-        <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40"/>
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="30" width="40"/>
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="30" width="40"/>
-        <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="40"/>
-</div>
+<h3 align="center">ABOUT ME</h3>
+
+##
+
+
+
+##
+
+<h3 align="center">💻 SKILLS 💻</h3>
+
+##
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,postgres,git,postman,figma" />
+</p>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/eduardopnovais/"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</p>
+
+##
+
+<h3 align="center">📖 LEARNING 📖</h3>
+
+##
+
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=aws,html,css,docker,prisma" />
+</p>
+
+##
+
+<h3 align="center">🌐 ACTIVITY 🌐</h3>
 
 ##
 
@@ -32,8 +47,13 @@
 
 ##
 
- <h3 align="center">PROJECT'S</h3>
+<h3 align="center">📝 PROJECT'S 📝</h3>
+
+##
+
 <div align="center">
+  <a href="https://github.com/novvais/plant-store"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=plant-store&theme=midnight-purple"/>
   <a href="https://github.com/novvais/API-Banco-Digital"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=api-banco-digital&theme=midnight-purple"/>
   <a href="https://github.com/novvais/dindin"/>
