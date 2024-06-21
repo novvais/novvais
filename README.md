@@ -30,17 +30,6 @@
 
 ##
 
-<h3 align="center">📱 SOCIAL MEDIAS 📱</h3>
-
-##
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/eduardopnovais/"/>
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-</p>
-
-##
-
 <h3 align="center">🌐 ACTIVITY 🌐</h3>
 
 ##
@@ -67,4 +56,15 @@
   <a href="https://github.com/novvais/PDV-System"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=pdv-system&theme=midnight-purple"/>  
 </div>
+
+##
+
+<h3 align="center">📱 SOCIAL MEDIAS 📱</h3>
+
+##
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/eduardopnovais/"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+</p>
 ***
