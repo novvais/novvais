@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&textBg=false&section=header&reversal=false&fontAlign=50&fontColor=FFFFFF&animation=fadeIn&fontSize=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&text=WELCOME%20TO%20MY%20GITHUB%20PROFILE&reversal=false&section=header&fontAlign=50&fontSize=40&fontColor=FFFFFF&animation=fadeIn"/>
 
 ##
 
@@ -67,4 +67,5 @@
     <a href="https://www.linkedin.com/in/eduardopnovais/"/>
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </p>
-***
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=200&color=gradient&reversal=false&section=footer&fontAlign=50&animation=fadeIn"/>
