@@ -25,7 +25,7 @@
 ##
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,html,css,docker,prisma" />
+    <img src="https://skillicons.dev/icons?i=aws,html,css,docker,prisma,bootstrap" />
 </p>
 
 ##
