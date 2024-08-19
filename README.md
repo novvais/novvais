@@ -15,7 +15,7 @@
 ##
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,git,yarn,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,nest,jest,prisma,docker,aws,postgres,git,yarn,postman,figma" />
 </p>
 
 ##
@@ -25,7 +25,7 @@
 ##
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=aws,html,css,docker,prisma,flutter,nest,jest" />
+    <img src="https://skillicons.dev/icons?i==flutter" />
 </p>
 
 ##
