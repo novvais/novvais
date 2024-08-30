@@ -25,7 +25,7 @@
 ##
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i==nest,jest,docker" />
+    <img src="https://skillicons.dev/icons?i=nest,jest,docker" />
 </p>
 
 ##
