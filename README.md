@@ -6,7 +6,9 @@
 
 ##
 
+<h3 align="center">Back-end Developer and Computer Science student. My focus is on building scalable APIs with TypeScript and the Node.js ecosystem (NestJS, Express).
 
+Professionally, I work with PHP, Laravel, WordPress, and React at @ApexBrasil. Academically, I'm exploring Java/Spring and C++. I am actively looking to deepen my knowledge in Java.</h3>
 
 ##
 
