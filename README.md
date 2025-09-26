@@ -15,7 +15,7 @@
 ##
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,jest,express" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,jest,express,php,laravel,wordpress" />
 </p>
 
 ##
@@ -25,7 +25,7 @@
 ##
 
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,css,html,figma"/>
+    <img src="https://skillicons.dev/icons?i=ts,react,tailwind,css,html,figma"/>
 </p>
 
 ##
@@ -55,7 +55,7 @@
 ##
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,nextjs,cpp,java,spring" />
+    <img src="https://skillicons.dev/icons?i=nextjs,cpp,java,spring" />
 </p>
 
 ##
