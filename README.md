@@ -48,7 +48,7 @@
     <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,vercel,postman,yarn,npm"/>
 </p>
 
-###
+##
 
 <h3 align="center">📖 LEARNING 📖</h3>
 
