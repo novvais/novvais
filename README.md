@@ -10,22 +10,52 @@
 
 ##
 
-<h3 align="center">💻 SKILLS 💻</h3>
+<h3 align="center">💻 BACK-END 💻</h3>
 
 ##
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,prisma,aws,postgres,git,yarn,postman,figma" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,jest,express" />
 </p>
 
 ##
+
+<h3 align="center">🎨 FRONT-END 🎨</h3>
+
+##
+
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind,css,html,figma"/>
+</p>
+
+##
+
+<h3 align="center">🛢️ Database & ORMs 🛢️</h3>
+
+##
+
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,supebase,mysql,mongodb"/>
+</p>
+
+##
+
+<h3 align="center">☁️ DevOps, Cloud & Tools ☁️</h3>
+
+##
+
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,vercel,postman,yarn,npm"/>
+</p>
+
+###
 
 <h3 align="center">📖 LEARNING 📖</h3>
 
 ##
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=nest,jest,docker" />
+    <img src="https://skillicons.dev/icons?i=php,wordpress,laravel,nextjs,cpp,java,spring" />
 </p>
 
 ##
