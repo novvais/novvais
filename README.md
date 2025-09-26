@@ -35,7 +35,7 @@
 ##
 
 <p align="center"> 
-    <img src="https://skillicons.dev/icons?i=postgres,prisma,supebase,mysql,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=postgres,prisma,superbase,mysql,mongodb"/>
 </p>
 
 ##
