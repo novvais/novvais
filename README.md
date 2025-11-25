@@ -12,6 +12,57 @@ Professionally, I work with PHP, Laravel, WordPress, and React at @ApexBrasil. A
 
 ##
 
+<h3 align="center">🏆 PROFESSIONAL CASES & FREELANCE 🏆</h3>
+
+---
+
+### 🏥 Plataforma de Engajamento de Pacientes (Amil)
+> *🏆 Vencedor do Sprint: Categoria Maior Impacto Socioambiental*
+
+Sistema de "Hub de Saúde" gamificado. O projeto durou pouco mais de 1 mês, mas assumi a **liderança emergencial do Front-end**, desenvolvendo toda a interface em **apenas 7 dias**.
+* **Full-stack:** Atuação crítica no Front e Back, entregando interface Mobile-First.
+* **Integrações:** Sincronização bidirecional com **Google Calendar API**.
+* **Complexidade de Dados:** Modelagem robusta com **24 tabelas relacionais** para prontuários e trilhas.
+* **Gamificação & UX:** Assistente virtual ("Milo") e lógica de conquistas para retenção de pacientes.
+
+<br>
+
+### ⚡ Otimização de Gestão Corporativa (Apex Brasil)
+> *Migração de Legado e Performance.*
+
+Substituição de solução instável em *Low-Code* (PowerApps) por uma arquitetura Web proprietária de alta performance.
+* **Performance Real-time:** Eliminação completa de latência na sincronização com o banco de dados.
+* **Bulk Actions:** Implementação de lógica para manipulação de dados em massa, otimizando o fluxo de trabalho.
+* **Segurança Corporativa:** Integração completa com **Microsoft Entra ID (SSO)**.
+
+<br>
+
+### 🗺️ Marketplace de Infraestrutura Geoespacial (BYD & Tupi Mobilidade)
+> *Inovação Open Corps.*
+
+Plataforma desenvolvida durante o programa Sprint e **implantada na infraestrutura da BYD**, conectando proprietários de terrenos a investidores de infraestrutura elétrica.
+* **Match Geoespacial:** Algoritmo que cruza coordenadas de imóveis com zonas de interesse.
+* **Event-Driven:** Sistema de notificação automática baseado em gatilhos de localização.
+* **Data Viz:** Mapas de calor interativos para identificar demanda.
+
+<br>
+
+### 🚀 Em Desenvolvimento: Momentum (SaaS)
+Meu produto proprietário (SaaS) de produtividade focado em "Deep Work" com design minimalista.
+* **Arquitetura Multi-Tenant:** Controle de acesso baseado em planos (Vibes, Flow, Epic).
+* **Lógica de Ciclos:** Algoritmo que ajusta automaticamente os timers Pomodoro baseado na estimativa da tarefa.
+* **Persistência:** Workers em segundo plano para manter o fluxo de tempo e música ininterrupto.
+
+<br>
+
+### 🔌 Outras Contribuições (Back-end Specialist)
+* **🏟️ Arena BRB (Sustentabilidade & BI):** Desenvolvimento de Back-end para sistema de pesquisas gamificado (1 árvore plantada a cada 100 respostas). Criação de motor de **Formulários Dinâmicos** e implementação de **Cron Jobs** para atualização de Dashboards.
+* **🏀 Caixa Basquete (Sports Tech):** API RESTful otimizada para aplicativo de atletas de elite. Foco na estruturação de dados para relatórios de *Mindfulness*.
+
+---
+
+##
+
 <h3 align="center">💻 BACK-END 💻</h3>
 
 ##
@@ -62,19 +113,7 @@ Professionally, I work with PHP, Laravel, WordPress, and React at @ApexBrasil. A
 
 ##
 
-<h3 align="center">🌐 ACTIVITY 🌐</h3>
-
-##
-
-<div align="center">
-  <a hef="https://github.com/novvais">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=novvais&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvais&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
-</div>
-
-##
-
-<h3 align="center">📝 PROJECT'S 📝</h3>
+<h3 align="center">📝 PROJECT'S & REPOS 📝</h3>
 
 ##
 
@@ -87,6 +126,18 @@ Professionally, I work with PHP, Laravel, WordPress, and React at @ApexBrasil. A
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=dindin&theme=midnight-purple"/>
   <a href="https://github.com/novvais/PDV-System"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=novvais&repo=pdv-system&theme=midnight-purple"/>  
+</div>
+
+##
+
+<h3 align="center">🌐 ACTIVITY 🌐</h3>
+
+##
+
+<div align="center">
+  <a href="https://github.com/novvais">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=novvais&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=novvais&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 ##
