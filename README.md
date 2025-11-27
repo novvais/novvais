@@ -24,6 +24,7 @@ Sistema de "Hub de Saúde" gamificado. O projeto durou pouco mais de 1 mês, mas
 * **Integrações:** Sincronização bidirecional com **Google Calendar API**.
 * **Complexidade de Dados:** Modelagem robusta com **24 tabelas relacionais** para prontuários e trilhas.
 * **Gamificação & UX:** Assistente virtual ("Milo") e lógica de conquistas para retenção de pacientes.
+* **🛠️ Tech Stack:** `TypeScript` `NestJS` `Prisma ORM` `PostgreSQL` `React` `Tailwind CSS` `Vite`
 
 <br>
 
@@ -33,7 +34,8 @@ Sistema de "Hub de Saúde" gamificado. O projeto durou pouco mais de 1 mês, mas
 Substituição de solução instável em *Low-Code* (PowerApps) por uma arquitetura Web proprietária de alta performance.
 * **Performance Real-time:** Eliminação completa de latência na sincronização com o banco de dados.
 * **Bulk Actions:** Implementação de lógica para manipulação de dados em massa, otimizando o fluxo de trabalho.
-* **Segurança Corporativa:** Integração completa com **Microsoft Entra ID (SSO)**.
+* **Segurança Corporativa:** Integração completa com **Microsoft Entra ID (SSO)** e validação via Laravel Sanctum.
+* **🛠️ Tech Stack:** `PHP` `Laravel (Eloquent/Sanctum)` `SQL Server` `Next.js` `React` `TypeScript`
 
 <br>
 
@@ -44,6 +46,7 @@ Plataforma desenvolvida durante o programa Sprint e **implantada na infraestrutu
 * **Match Geoespacial:** Algoritmo que cruza coordenadas de imóveis com zonas de interesse.
 * **Event-Driven:** Sistema de notificação automática baseado em gatilhos de localização.
 * **Data Viz:** Mapas de calor interativos para identificar demanda.
+* **🛠️ Tech Stack:** `Node.js` `Express` `Prisma ORM` `PostgreSQL` `React` `Tailwind CSS` `Vite`
 
 <br>
 
@@ -52,12 +55,15 @@ Meu produto proprietário (SaaS) de produtividade focado em "Deep Work" com desi
 * **Arquitetura Multi-Tenant:** Controle de acesso baseado em planos (Vibes, Flow, Epic).
 * **Lógica de Ciclos:** Algoritmo que ajusta automaticamente os timers Pomodoro baseado na estimativa da tarefa.
 * **Persistência:** Workers em segundo plano para manter o fluxo de tempo e música ininterrupto.
+* **🛠️ Tech Stack:** `TypeScript` `NestJS` `Prisma ORM` `PostgreSQL` `React` `Tailwind CSS` `Vite`
 
 <br>
 
 ### 🔌 Outras Contribuições (Back-end Specialist)
-* **🏟️ Arena BRB (Sustentabilidade & BI):** Desenvolvimento de Back-end para sistema de pesquisas gamificado (1 árvore plantada a cada 100 respostas). Criação de motor de **Formulários Dinâmicos** e implementação de **Cron Jobs** para atualização de Dashboards.
-* **🏀 Caixa Basquete (Sports Tech):** API RESTful otimizada para aplicativo de atletas de elite. Foco na estruturação de dados para relatórios de *Mindfulness*.
+* **🏟️ Arena BRB (Sustentabilidade & BI):** Integração avançada com **Google Maps API** implementando sistema de "Indoor Levels" (andares do estádio 0, 1, 2, 3 e VIP) e Cron Jobs para atualização de Dashboards.
+    * *Stack:* `NestJS` `TypeScript` `Prisma ORM` `PostgreSQL` `Google Maps API`
+* **🏀 Caixa Basquete (Sports Tech):** API RESTful otimizada para aplicativo de atletas de elite. Foco na estruturação de dados para relatórios de *Mindfulness*, Yoga e Sono.
+    * *Stack:* `NestJS` `TypeScript` `Prisma ORM` `PostgreSQL`
 
 ---
 
